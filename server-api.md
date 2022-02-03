@@ -141,7 +141,6 @@ GET /flight
 GET  /flight/af6fa55c-da65-47dd-af23-578fdba40bed
 ```
 
-
 #### **Response**
 응답은 다음과 같은 JSON 형식입니다.
 
@@ -157,7 +156,7 @@ GET  /flight/af6fa55c-da65-47dd-af23-578fdba40bed
 <center>[데이터] Request에 따른 Response 예시</center>
 
 <br/>
-
+<br/>
 ### **항공편 수정**
 
 클라이언트에서 고유 ID 값을 기준으로 항공편을 수정할 때 사용 되는 API입니다.
@@ -339,7 +338,7 @@ phone 파라미터 요청에 응답은 다음과 같은 JSON 형식입니다.
 <center>[데이터] Request에 따른 Response 예시</center>
 
 <br/>
-
+<br/>
 ### **예약 삭제**
 
 클라이언트에서 특정 항공편 예약을 삭제할 때 사용하는 API입니다.
